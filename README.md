@@ -1,20 +1,20 @@
 <h1 align="center">Hi friend 👋, I'm Aleksandr</h1>
 <div>
-<img  src="https://miro.medium.com/v2/resize:fit:3200/1*OF0xEMkWBv-69zvmNs6RDQ.gif" width="300" alt="Coding" align='right'/>
-<h3 align="left">Frontend developer from Belarus.</h3>
+<!-- <img  src="https://miro.medium.com/v2/resize:fit:3200/1*OF0xEMkWBv-69zvmNs6RDQ.gif" width="300" alt="Coding" align='right'/>
+<h3 align="left">Frontend developer from Belarus.</h3> -->
 
 <p> Welcome to my GitHub account! Here you'll find my various projects I'm working on or have worked on in the past.</p>
 
-<h2>☝️ A few facts about me:</h2>
+<!-- <h2>☝️ A few facts about me:</h2>
   <ul>
 <!--     <li>Solving rubik's cube 4x4.</li> -->
-    <li>👨🏼‍🔧 I worked at the plant for six years, worked my way up from laborer to engineer.</li>
-    <li>🏃🏼‍♂️ I was a professional track and field athlete in the past.</li>
-    <li>❤️ I have a little daughter. I love her very much.</li>
+<!--     <li>👨🏼‍🔧 I worked at the plant for six years, worked my way up from laborer to engineer.</li> -->
+<!--     <li>🏃🏼‍♂️ I was a professional track and field athlete in the past.</li> -->
+<!--     <li>❤️ I have a little daughter. I love her very much.</li> -->
 <!--     <li>Solving rubik's cube 5x5!</a>.</li> -->
-    <li>💬 Write me if you need a qualified <strong>Frontend developer</strong>.</li>
-    <li>📙 Check out my <a href="/">CV</a>.</li>
-  </ul>
+<!--     <li>💬 Write me if you need a qualified <strong>Frontend developer</strong>.</li> -->
+<!--     <li>📙 Check out my <a href="/">CV</a>.</li> -->
+<!--   </ul> -->
 
 
 </div>
@@ -35,7 +35,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </div>
-<br/>
+<!-- <br/>
 <details>
 <summary align="left"><b > 🧱 My skills and stats: </b> <img align="right" src="https://www.codewars.com/users/zaitsev_av/badges/small" alt="coders"></summary>
 <br/>
@@ -67,11 +67,11 @@
    <img alt="NPM" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/>
    <img alt="PNPM" src="https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220"/>
 </div>
-
-<div align="center"> 
+-->
+<!-- <div align="center"> 
 <br/>
   
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaitsev-AV&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaitsev-AV&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 <h3 align="center">✍️ Random Dev Quote</h3>
 
@@ -79,5 +79,5 @@
 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-</div>
+</div> --> 
 
