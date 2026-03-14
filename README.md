@@ -26,7 +26,7 @@
   <a href="https://github.com/Zaitsev-AV">
     <img src="https://img.shields.io/badge/Profile-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
-  <a href="https://boosty.to/zaitsev_av">
+  <a href="https://boosty.to/zaitsev_av" target="_blank">
     <img src="https://img.shields.io/badge/Support-Boosty-F15F2C?style=for-the-badge" alt="Boosty" />
   </a>
 </p>
