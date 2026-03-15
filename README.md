@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0ea5e9,100:7c3aed&section=header" alt="header" />
 </p>
 
-<h1 align="center">Aleksandr Zaitsev</h1>
+<h1 align="center">Alexandr Zaitsev</h1>
 
 <p align="center">
   <strong>Go Developer</strong> with frontend roots.
